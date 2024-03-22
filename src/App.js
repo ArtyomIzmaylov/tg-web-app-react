@@ -14,6 +14,7 @@ function App() {
 
     return (
         <div className="App">
+            <h1>Вас приветсвует ТЕЛЕГРАМ МЕГА ПАРСЕР БОТ ПРИЛОЖЕНИЕ</h1>
             <button onClick={onClose}>Нажать на кнопку</button>
         </div>
     )
