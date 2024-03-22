@@ -17,6 +17,7 @@ function App() {
         tg.ready();
     }, []);
 
+    console.log(tg.initDataUnsafe?.user)
     return (
         <div className="App">
             <Header></Header>
